@@ -2,6 +2,8 @@
 
 GitHub Commits Tracker is a web application that allows you to track the commits of graduates from a specific cohort. It is built with Next.js, Tailwind CSS, Prisma.
 The application's data is stored in a Prisma database with a single table for graduates.
+<img width="1000" alt="Screenshot 2023-10-25 at 01 36 16" src="https://github.com/LorenaCapraru/gh-profile/assets/108892538/a69af422-6c72-4fff-ad54-a1093b7b8101">
+
 
 ## Table of Contents
 
@@ -10,7 +12,7 @@ The application's data is stored in a Prisma database with a single table for gr
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Features
 
@@ -39,12 +41,12 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/github-commits-tracker.git
+  git clone https://github.com/yourusername/gh-profile.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-   cd github-commits-tracker
+   cd gh-profile
 ```
 3. Install the project dependencies:
 ```bash
@@ -64,10 +66,6 @@ Before you begin, ensure you have met the following requirements:
 - Visit the application in your browser.
 - Use the search and filter options to find specific graduates by cohort or name.
 - Click on a graduate to view their GitHub commits and details.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 Happy tracking! 🚀
